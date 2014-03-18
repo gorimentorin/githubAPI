@@ -76,8 +76,14 @@ private $urlbase="https://api.github.com/";
 		$tmp=explode("\n",$header);
 		$res= array();
 		for ($i=0; $i <  count($tmp); $i++) {
-			$ind=explode(":", $tmp[$i]);
-			$res[$ind[0]]=$ind[1];
+			$lin=$tmp[$i];
+			$ind=strpos($lin,':');
+			if($ind==FALSE)$ind=strpos($lin,' ');
+			if($ind!=FALSE){
+				$key=substr($lin,0,$ind);
+				$val=substr($lin,$ind);
+				$res[$key]=$val;
+			}
 		}
 		return $res;
 
@@ -183,25 +189,35 @@ stars Searches repositories based on the number of stars.
 			if(isset($opts['order']))	$urlFindRepo.="&order=".$opts['order'];
 			
 		}
-		echo $urlFindRepo;
+
 		$header;
 		$body;
-		$res=$this->getURL($urlFindRepo,$header,$body);
-		$jsonres=json_decode($body);
-		print_r($jsonres);
+		//$res=$this->getURL($urlFindRepo,$header,$body);
+		//file_put_contents("data.json", $body);
+		//file_put_contents("header.txt", $header);
+		$body=file_get_contents("data.json");
+		$jsonres=json_decode($body,true);
+		
 		$total_count=intval($jsonres['total_count']);
+
 		$pages=intval($total_count/100);
+		echo $total_count;
+		echo $pages;
 		$resultados=array();
+		print_r($jsonres['items']);
 		for ($i=0; $i <count($jsonres['items']); $i++)
-			array_push($resultados,$jsonres['items'][i]);
+			array_push($resultados,$jsonres['items'][$i]);
+		
 		/*
 		for ($j=2; $j <=$pages ; $ji++) { 
 			$res=$this->getURL($urlFindRepo.'&page='.$j,$header,$body);
 			$jsonres=json_decode($body);
-			for ($i=0; $i <count($jsonres['items']); $i++)
-				array_push($resultados,$jsonres['items'][i]);
+			for ($i=0; $i <count($jsonres->items); $i++)
+				array_push($resultados,$jsonres->items[i]);
 		}
 		*/
+		print_r($resultados);
+		
 	}
 }
 
