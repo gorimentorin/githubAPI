@@ -224,4 +224,11 @@ stars Searches repositories based on the number of stars.
 $lol=new Search();
 $lol->connect();
 $lol->FindRepositorios('phonegap');
+
+
+class Owner{
+public `id`, `login`, `url`SELECT * FROM `user`
+
+
+}
 ?>
