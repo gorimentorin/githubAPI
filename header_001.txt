@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Tue, 18 Mar 2014 19:45:55 GMT
+Content-Type: application/json; charset=utf-8
+Status: 200 OK
+X-RateLimit-Limit: 30
+X-RateLimit-Remaining: 29
+X-RateLimit-Reset: 1395172015
+Cache-Control: no-cache
+X-GitHub-Media-Type: github.beta
+Link: <https://api.github.com/search/repositories?q=phonegap&page=2>; rel="next", <https://api.github.com/search/repositories?q=phonegap&page=34>; rel="last"
+X-Content-Type-Options: nosniff
+Content-Length: 152029
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Allow-Origin: *
+X-GitHub-Request-Id: C9BA1ECB:19A2:DDAC4C:5328A272
+Vary: Accept-Encoding
+X-Served-By: 03d91026ad8428f4d9966d7434f9d82e
+
