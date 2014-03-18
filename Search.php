@@ -204,9 +204,10 @@ class Search {
         $this->RLLimit = intval($headVar["X-RateLimit-Limit"]);
         if (isset($headVar["Link"])) {
             $infoLink = trim($headVar["Link"]);
-            if ('rel="last\"' == substr($infoLink, - 1 , 10)) {
+        	$fin=substr($infoLink, - 1 , 10);
+            if (strrpos($infoLink,'rel="last"')>0) {
             	$this->last=trim(array_shift(explode(";",array_pop(explode(",",$infoLink)))));
-            	$this->last=substr($this->last,1,strlen($this->last));
+            	$this->last=substr($this->last,1,strlen($this->last)-2);
             }
         }
         curl_close($ch);
