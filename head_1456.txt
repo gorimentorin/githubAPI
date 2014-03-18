@@ -1,0 +1,16 @@
+HTTP/1.1 403 Forbidden
+Server: GitHub.com
+Date: Tue, 18 Mar 2014 21:21:25 GMT
+Content-Type: application/json; charset=utf-8
+Status: 403 Forbidden
+X-RateLimit-Limit: 30
+X-RateLimit-Remaining: 0
+X-RateLimit-Reset: 1395177688
+X-GitHub-Media-Type: github.beta
+X-Content-Type-Options: nosniff
+Content-Length: 123
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Allow-Origin: *
+X-GitHub-Request-Id: C9BA1ECB:45F4:193C77:5328B8D5
+
