@@ -1,0 +1,2337 @@
+1
+Array
+(
+    [pushed] => %3E2007-01-01
+    [encode] => 1
+)
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:%3E2007-01-01&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:%3E2007-01-01&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:29
+Reset:1395264027
+Pagina :1
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:28
+Reset:1395264027
+Pagina :2
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:27
+Reset:1395264027
+Pagina :3
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:26
+Reset:1395264027
+Pagina :4
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:25
+Reset:1395264027
+Pagina :5
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:24
+Reset:1395264027
+Pagina :6
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:23
+Reset:1395264027
+Pagina :7
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:22
+Reset:1395264027
+Pagina :8
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:21
+Reset:1395264027
+Pagina :9
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2007-01-01&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:20
+Reset:1395264027
+Pagina :10
+N Items en json: 100
+ Guardando 100 en BD con resultado 1
+-1395263968
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:19
+Reset:1395264027
+Pagina :11
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:18
+Reset:1395264027
+Pagina :12
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:17
+Reset:1395264027
+Pagina :13
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:16
+Reset:1395264027
+Pagina :14
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:15
+Reset:1395264027
+Pagina :15
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:14
+Reset:1395264027
+Pagina :16
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:13
+Reset:1395264027
+Pagina :17
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:12
+Reset:1395264027
+Pagina :18
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:29
+Reset:1395264087
+Pagina :19
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:28
+Reset:1395264087
+Pagina :20
+N Items en json: 100
+-1395264007
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:27
+Reset:1395264087
+Pagina :21
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:26
+Reset:1395264087
+Pagina :22
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:25
+Reset:1395264087
+Pagina :23
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:24
+Reset:1395264087
+Pagina :24
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:23
+Reset:1395264087
+Pagina :25
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:22
+Reset:1395264087
+Pagina :26
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:21
+Reset:1395264087
+Pagina :27
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:20
+Reset:1395264087
+Pagina :28
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:19
+Reset:1395264087
+Pagina :29
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:18
+Reset:1395264087
+Pagina :30
+N Items en json: 100
+-1395264035
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:17
+Reset:1395264087
+Pagina :31
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:16
+Reset:1395264087
+Pagina :32
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:15
+Reset:1395264087
+Pagina :33
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:14
+Reset:1395264087
+Pagina :34
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:13
+Reset:1395264087
+Pagina :35
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:12
+Reset:1395264087
+Pagina :36
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:11
+Reset:1395264087
+Pagina :37
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:10
+Reset:1395264087
+Pagina :38
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:9
+Reset:1395264087
+Pagina :39
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:8
+Reset:1395264087
+Pagina :40
+N Items en json: 100
+-1395264062
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:29
+Reset:1395264148
+Pagina :41
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:28
+Reset:1395264148
+Pagina :42
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:27
+Reset:1395264148
+Pagina :43
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:26
+Reset:1395264148
+Pagina :44
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:25
+Reset:1395264148
+Pagina :45
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:24
+Reset:1395264148
+Pagina :46
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:23
+Reset:1395264148
+Pagina :47
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:22
+Reset:1395264148
+Pagina :48
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:21
+Reset:1395264148
+Pagina :49
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:20
+Reset:1395264148
+Pagina :50
+N Items en json: 100
+-1395264090
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:19
+Reset:1395264148
+Pagina :51
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:18
+Reset:1395264148
+Pagina :52
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:17
+Reset:1395264148
+Pagina :53
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:16
+Reset:1395264148
+Pagina :54
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:15
+Reset:1395264148
+Pagina :55
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:14
+Reset:1395264148
+Pagina :56
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:13
+Reset:1395264148
+Pagina :57
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:12
+Reset:1395264148
+Pagina :58
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:11
+Reset:1395264148
+Pagina :59
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:10
+Reset:1395264148
+Pagina :60
+N Items en json: 100
+-1395264117
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:9
+Reset:1395264148
+Pagina :61
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:8
+Reset:1395264148
+Pagina :62
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:7
+Reset:1395264148
+Pagina :63
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:29
+Reset:1395264210
+Pagina :64
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:28
+Reset:1395264210
+Pagina :65
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:27
+Reset:1395264210
+Pagina :66
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:26
+Reset:1395264210
+Pagina :67
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:25
+Reset:1395264210
+Pagina :68
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:24
+Reset:1395264210
+Pagina :69
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:23
+Reset:1395264210
+Pagina :70
+N Items en json: 100
+-1395264144
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:22
+Reset:1395264210
+Pagina :71
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:21
+Reset:1395264210
+Pagina :72
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:20
+Reset:1395264210
+Pagina :73
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:19
+Reset:1395264210
+Pagina :74
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:18
+Reset:1395264210
+Pagina :75
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:17
+Reset:1395264210
+Pagina :76
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:16
+Reset:1395264210
+Pagina :77
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:15
+Reset:1395264210
+Pagina :78
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:14
+Reset:1395264210
+Pagina :79
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:13
+Reset:1395264210
+Pagina :80
+N Items en json: 100
+-1395264170
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:12
+Reset:1395264210
+Pagina :81
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:11
+Reset:1395264210
+Pagina :82
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:10
+Reset:1395264210
+Pagina :83
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:9
+Reset:1395264210
+Pagina :84
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:8
+Reset:1395264210
+Pagina :85
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:7
+Reset:1395264210
+Pagina :86
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:6
+Reset:1395264210
+Pagina :87
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:29
+Reset:1395264273
+Pagina :88
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:28
+Reset:1395264273
+Pagina :89
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:27
+Reset:1395264273
+Pagina :90
+N Items en json: 100
+-1395264196
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:26
+Reset:1395264273
+Pagina :91
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:25
+Reset:1395264273
+Pagina :92
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:24
+Reset:1395264273
+Pagina :93
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:23
+Reset:1395264273
+Pagina :94
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:22
+Reset:1395264273
+Pagina :95
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:21
+Reset:1395264273
+Pagina :96
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:20
+Reset:1395264273
+Pagina :97
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:19
+Reset:1395264273
+Pagina :98
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:18
+Reset:1395264273
+Pagina :99
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:17
+Reset:1395264273
+Pagina :100
+N Items en json: 100
+-1395264223
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:16
+Reset:1395264273
+Pagina :101
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:15
+Reset:1395264273
+Pagina :102
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:14
+Reset:1395264273
+Pagina :103
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:13
+Reset:1395264273
+Pagina :104
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:12
+Reset:1395264273
+Pagina :105
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:11
+Reset:1395264273
+Pagina :106
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:10
+Reset:1395264273
+Pagina :107
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:9
+Reset:1395264273
+Pagina :108
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:8
+Reset:1395264273
+Pagina :109
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:7
+Reset:1395264273
+Pagina :110
+N Items en json: 100
+-1395264250
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:29
+Reset:1395264333
+Pagina :111
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:28
+Reset:1395264333
+Pagina :112
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:27
+Reset:1395264333
+Pagina :113
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:26
+Reset:1395264333
+Pagina :114
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:25
+Reset:1395264333
+Pagina :115
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:24
+Reset:1395264333
+Pagina :116
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:23
+Reset:1395264333
+Pagina :117
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:22
+Reset:1395264333
+Pagina :118
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:21
+Reset:1395264333
+Pagina :119
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:20
+Reset:1395264333
+Pagina :120
+N Items en json: 100
+-1395264275
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:19
+Reset:1395264333
+Pagina :121
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:18
+Reset:1395264333
+Pagina :122
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:17
+Reset:1395264333
+Pagina :123
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:16
+Reset:1395264333
+Pagina :124
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:15
+Reset:1395264333
+Pagina :125
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:14
+Reset:1395264333
+Pagina :126
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:13
+Reset:1395264333
+Pagina :127
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:12
+Reset:1395264333
+Pagina :128
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:11
+Reset:1395264333
+Pagina :129
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:10
+Reset:1395264333
+Pagina :130
+N Items en json: 100
+-1395264304
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:9
+Reset:1395264333
+Pagina :131
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:8
+Reset:1395264333
+Pagina :132
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:29
+Reset:1395264394
+Pagina :133
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:28
+Reset:1395264394
+Pagina :134
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:27
+Reset:1395264394
+Pagina :135
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:26
+Reset:1395264394
+Pagina :136
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:25
+Reset:1395264394
+Pagina :137
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:24
+Reset:1395264394
+Pagina :138
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:23
+Reset:1395264394
+Pagina :139
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:22
+Reset:1395264394
+Pagina :140
+N Items en json: 100
+-1395264331
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:21
+Reset:1395264394
+Pagina :141
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:20
+Reset:1395264394
+Pagina :142
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:19
+Reset:1395264394
+Pagina :143
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:18
+Reset:1395264394
+Pagina :144
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:17
+Reset:1395264394
+Pagina :145
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:16
+Reset:1395264394
+Pagina :146
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:15
+Reset:1395264394
+Pagina :147
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:14
+Reset:1395264394
+Pagina :148
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:13
+Reset:1395264394
+Pagina :149
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:12
+Reset:1395264394
+Pagina :150
+N Items en json: 100
+-1395264357
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:11
+Reset:1395264394
+Pagina :151
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:10
+Reset:1395264394
+Pagina :152
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:9
+Reset:1395264394
+Pagina :153
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:8
+Reset:1395264394
+Pagina :154
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:7
+Reset:1395264394
+Pagina :155
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:29
+Reset:1395264455
+Pagina :156
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:28
+Reset:1395264455
+Pagina :157
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:27
+Reset:1395264455
+Pagina :158
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:26
+Reset:1395264455
+Pagina :159
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:25
+Reset:1395264455
+Pagina :160
+N Items en json: 100
+-1395264384
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:24
+Reset:1395264455
+Pagina :161
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:23
+Reset:1395264455
+Pagina :162
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:22
+Reset:1395264455
+Pagina :163
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:21
+Reset:1395264455
+Pagina :164
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:20
+Reset:1395264455
+Pagina :165
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:19
+Reset:1395264455
+Pagina :166
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:18
+Reset:1395264455
+Pagina :167
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:17
+Reset:1395264455
+Pagina :168
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:16
+Reset:1395264455
+Pagina :169
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:15
+Reset:1395264455
+Pagina :170
+N Items en json: 100
+-1395264411
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:14
+Reset:1395264455
+Pagina :171
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:13
+Reset:1395264455
+Pagina :172
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:12
+Reset:1395264455
+Pagina :173
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:11
+Reset:1395264455
+Pagina :174
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:10
+Reset:1395264455
+Pagina :175
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:9
+Reset:1395264455
+Pagina :176
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:8
+Reset:1395264455
+Pagina :177
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:29
+Reset:1395264516
+Pagina :178
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:28
+Reset:1395264516
+Pagina :179
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:27
+Reset:1395264516
+Pagina :180
+N Items en json: 100
+-1395264439
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:26
+Reset:1395264516
+Pagina :181
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:25
+Reset:1395264516
+Pagina :182
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:24
+Reset:1395264516
+Pagina :183
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:23
+Reset:1395264516
+Pagina :184
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:22
+Reset:1395264516
+Pagina :185
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:21
+Reset:1395264516
+Pagina :186
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:20
+Reset:1395264516
+Pagina :187
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:19
+Reset:1395264516
+Pagina :188
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:18
+Reset:1395264516
+Pagina :189
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:17
+Reset:1395264516
+Pagina :190
+N Items en json: 100
+-1395264466
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:16
+Reset:1395264516
+Pagina :191
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:15
+Reset:1395264516
+Pagina :192
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:14
+Reset:1395264516
+Pagina :193
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:13
+Reset:1395264516
+Pagina :194
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:12
+Reset:1395264516
+Pagina :195
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:11
+Reset:1395264516
+Pagina :196
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:10
+Reset:1395264516
+Pagina :197
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:9
+Reset:1395264516
+Pagina :198
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:8
+Reset:1395264516
+Pagina :199
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:7
+Reset:1395264516
+Pagina :200
+N Items en json: 100
+-1395264492
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:6
+Reset:1395264516
+Pagina :201
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:29
+Reset:1395264578
+Pagina :202
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:28
+Reset:1395264578
+Pagina :203
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:27
+Reset:1395264578
+Pagina :204
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:26
+Reset:1395264578
+Pagina :205
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:25
+Reset:1395264578
+Pagina :206
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:24
+Reset:1395264578
+Pagina :207
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:23
+Reset:1395264578
+Pagina :208
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:22
+Reset:1395264578
+Pagina :209
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:21
+Reset:1395264578
+Pagina :210
+N Items en json: 100
+-1395264518
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:20
+Reset:1395264578
+Pagina :211
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:19
+Reset:1395264578
+Pagina :212
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:18
+Reset:1395264578
+Pagina :213
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:17
+Reset:1395264578
+Pagina :214
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:16
+Reset:1395264578
+Pagina :215
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:15
+Reset:1395264578
+Pagina :216
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:14
+Reset:1395264578
+Pagina :217
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:13
+Reset:1395264578
+Pagina :218
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:12
+Reset:1395264578
+Pagina :219
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:11
+Reset:1395264578
+Pagina :220
+N Items en json: 100
+-1395264545
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:10
+Reset:1395264578
+Pagina :221
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:9
+Reset:1395264578
+Pagina :222
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:8
+Reset:1395264578
+Pagina :223
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:7
+Reset:1395264578
+Pagina :224
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:29
+Reset:1395264640
+Pagina :225
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:28
+Reset:1395264640
+Pagina :226
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:27
+Reset:1395264640
+Pagina :227
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:26
+Reset:1395264640
+Pagina :228
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:25
+Reset:1395264640
+Pagina :229
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:24
+Reset:1395264640
+Pagina :230
+N Items en json: 100
+-1395264572
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:23
+Reset:1395264640
+Pagina :231
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:22
+Reset:1395264640
+Pagina :232
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:21
+Reset:1395264640
+Pagina :233
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:20
+Reset:1395264640
+Pagina :234
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:19
+Reset:1395264640
+Pagina :235
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:18
+Reset:1395264640
+Pagina :236
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:17
+Reset:1395264640
+Pagina :237
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:16
+Reset:1395264640
+Pagina :238
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:15
+Reset:1395264640
+Pagina :239
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:14
+Reset:1395264640
+Pagina :240
+N Items en json: 100
+-1395264598
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:13
+Reset:1395264640
+Pagina :241
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:12
+Reset:1395264640
+Pagina :242
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:11
+Reset:1395264640
+Pagina :243
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:10
+Reset:1395264640
+Pagina :244
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:9
+Reset:1395264640
+Pagina :245
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:8
+Reset:1395264640
+Pagina :246
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:7
+Reset:1395264640
+Pagina :247
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:29
+Reset:1395264701
+Pagina :248
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:28
+Reset:1395264701
+Pagina :249
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:27
+Reset:1395264701
+Pagina :250
+N Items en json: 100
+-1395264624
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:26
+Reset:1395264701
+Pagina :251
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:25
+Reset:1395264701
+Pagina :252
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:24
+Reset:1395264701
+Pagina :253
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:23
+Reset:1395264701
+Pagina :254
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:22
+Reset:1395264701
+Pagina :255
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:21
+Reset:1395264701
+Pagina :256
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:20
+Reset:1395264701
+Pagina :257
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:19
+Reset:1395264701
+Pagina :258
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:18
+Reset:1395264701
+Pagina :259
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:17
+Reset:1395264701
+Pagina :260
+N Items en json: 100
+-1395264651
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:16
+Reset:1395264701
+Pagina :261
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:15
+Reset:1395264701
+Pagina :262
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:14
+Reset:1395264701
+Pagina :263
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:13
+Reset:1395264701
+Pagina :264
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:12
+Reset:1395264701
+Pagina :265
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:11
+Reset:1395264701
+Pagina :266
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:10
+Reset:1395264701
+Pagina :267
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:9
+Reset:1395264701
+Pagina :268
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:8
+Reset:1395264701
+Pagina :269
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:29
+Reset:1395264761
+Pagina :270
+N Items en json: 100
+-1395264679
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:28
+Reset:1395264761
+Pagina :271
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:27
+Reset:1395264761
+Pagina :272
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:26
+Reset:1395264761
+Pagina :273
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Limite:30
+Remanente:25
+Reset:1395264761
+Pagina :274
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=5
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Limite:30
+Remanente:24
+Reset:1395264761
+Pagina :275
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=6
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Limite:30
+Remanente:23
+Reset:1395264761
+Pagina :276
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=7
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Limite:30
+Remanente:22
+Reset:1395264761
+Pagina :277
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=8
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Limite:30
+Remanente:21
+Reset:1395264761
+Pagina :278
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=9
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Limite:30
+Remanente:20
+Reset:1395264761
+Pagina :279
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=10
+Url Siguiente: 
+Limite:30
+Remanente:19
+Reset:1395264761
+Pagina :280
+N Items en json: 100
+-1395264706
+Ultimo resultado Fecha actualizacion:2014-03-02
+Url:https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Actual	: https://api.github.com/search/repositories?q=phonegap+%20in:name,description,readme%20pushed:>2014-03-02&sort=updated&order=desc&per_page=100
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Limite:30
+Remanente:18
+Reset:1395264761
+Pagina :281
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=2
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Limite:30
+Remanente:17
+Reset:1395264761
+Pagina :282
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Actual	: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=3
+Url Siguiente: https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
+Limite:30
+Remanente:16
+Reset:1395264761
+Pagina :283
+N Items en json: 100
+Url:https://api.github.com/search/repositories?q=phonegap++in%3Aname%2Cdescription%2Creadme+pushed%3A%3E2014-03-02&sort=updated&order=desc&per_page=100&page=4
