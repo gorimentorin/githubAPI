@@ -12,242 +12,7 @@ http://developer.github.com/guides/getting-started/#authentication
 http://developer.github.com/v3/search/ Informacion sobre como buscar usando la API
 */
 
-function trace($var)
-{
-	echo ($var);
-	echo "\n";
-}
-function escaparObjeto($obj){
-	trace("escapando val:");
-	foreach ($obj as $key=> &$value) {
-	   trace("escapando :".$key.' '.$value.' '.$obj->$key.' '.gettype($value));
-	   if(gettype($value)=='boolean'){
-		if(is_null($value))$obj->key='';
-		elseif($value==TRUE)$obj->key='TRUE';
-		else $obj->key='FALSE';
-	   }
-	   if(is_numeric($value)){
-		trace("escapando :".$key.' '.$value.' '.$obj->$key.' '.gettype($value));
-		continue;
-	   }
-	   else{
-		if(is_null($value)){
-			$obj->$key='-';
-		}
-		else $obj->$key=addslashes($value);
-	   }
-	}
-   return $obj;
-}
-function tostring($obj){
-	$sql='';
-	foreach ($obj as $key=> &$value) {
-		$sql.='"'.addslashes($value).'",';
-	}
-	$sql=substr($sql,0,strlen($sql)-1);
-
-	$sql='('.$sql.')';
-   return $sql;
-
-}
-
-class DBBase {
-	/*
-	   public $user="githubapi";
-	   public $password='1q2w3e4r';
-	   public $server='localhost';
-	   public $DB='githubapi';
-	*/
-
-	protected $mysqli;
-	public function __construct()
-	{
-		/*
-		   $this->user="githubapi";
-		   $this->password='1q2w3e4r';
-		   $this->server='127.0.0.1';
-		   $this->DB='githubapi';
-		*/
-	}
-
-	function connect()
-	{
-		$user = "root";
-		$password = '1q2w3e4r';
-		$server = '127.0.0.1';
-		$DB = 'githubapi';
-		$this->mysqli = new mysqli(null, $user, $password, $DB);
-
-		/* check connection */
-		if (mysqli_connect_errno()) {
-			printf("Connect failed: %s\n", mysqli_connect_error());
-			return false;
-		}
-		return true;
-	}
-	/*
-	   i	la variable correspondiente es de tipo entero
-	   d	la variable correspondiente es de tipo double
-	   s	la variable correspondiente es de tipo string
-	   b	la variable correspondiente es un blob y se envía en paquetes
-	*/
-}
-class DBOwner extends DBBase {
-	function save($owner)
-	{
-		try{
-			if ($this->connect()) {
-				$sql = 'REPLACE INTO owner(id,login,url) VALUES (?,?,?)';
-				if ($stmt = $this->mysqli->prepare($sql)) {
-					$stmt->bind_param("iss", $owner->id, $owner->login, $owner->url);
-					$res=$stmt->execute();
-					trace("Owner ".$owner->id." guardado en BD con resultado ".$res);
-					return $res;
-				}
-			}
-		}
-		catch (Exception $e) {
-			echo 'Excepción capturada: ',  $e->getMessage(), "\n";
-		}
-		return false;
-	}
-}
-class DBRepositorio extends DBBase {
-	/**
-	 * Graba un registro en la BD
-	 */
-	function save($owner)
-	{
-	try{
-		if ($this->connect()) {
-			$sql = 'INSERT INTO repositorio(id, name, full_name, owner_id, private, html_url, description, fork, url, forks_url, created_at, updated_at, pushed_at, git_url, svn_url, homepage, size, stargazers_count, watchers_count, language, has_issues, has_downloads, has_wiki, forks_count, mirror_url, open_issues_count, forks, open_issues, watchers, default_branch, master_branch, score,json) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)';
-			if ($stmt = $this->mysqli->prepare($sql)) {
-				if ($stmt->bind_param("issiississssssssiiisiiiisiiiissds", $owner->id , $owner->name , $owner->full_name , $owner->owner_id , $owner->private , $owner->html_url , $owner->description , $owner->fork , $owner->url , $owner->forks_url , $owner->created_at , $owner->updated_at , $owner->pushed_at , $owner->git_url , $owner->svn_url , $owner->homepage , $owner->size , $owner->stargazers_count , $owner->watchers_count , $owner->language , $owner->has_issues , $owner->has_downloads , $owner->has_wiki , $owner->forks_count , $owner->mirror_url , $owner->open_issues_count , $owner->forks , $owner->open_issues , $owner->watchers , $owner->default_branch , $owner->master_branch , $owner->score, $owner->json)) {
-					$res = $stmt->execute();
-					trace(" Repositorio ".$owner->id." guardado en BD con resultado ".$res);
-					return  $res;
-				} else echo 'Error Bind Param';
-			} else echo 'Error prepare';
-		} else echo 'Error connect';
-		}
-		catch (Exception $e) {
-			echo 'Excepción capturada: ',  $e->getMessage(), "\n";
-		}
-	}
-
-	/**
-	 * Guarda Todos los registros en la lista
-	 */
-	function saveAll($lstowner){
-		if(count($lstowner)>0){
-	try{
-		if ($this->connect()) {
-			$sql ='INSERT INTO repositorio(id, name, full_name, owner_id, private, html_url, description, fork, url, forks_url, created_at, updated_at, pushed_at, git_url, svn_url, homepage, size, stargazers_count, watchers_count, language, has_issues, has_downloads, has_wiki, forks_count, mirror_url, open_issues_count, forks, open_issues, watchers, default_branch, master_branch, score,json) VALUES ';
-
-				foreach ($lstowner as $item) {
-					$item->json='';
-					$sql.=tostring($item).',';
-				}
-				$sql=substr($sql,0, strlen($sql)-1);
-
-				$res=$this->mysqli->query($sql);
-				if($res>0) trace(" Guardando ".count($lstowner)." en BD con resultado ".$res);
-				else{
-					trace("Error al guardar repositorios ".$this->mysqli->error);
-					trace($sql);
-				}
-				return  $res;
-		} else echo 'Error connect';
-		}
-		catch (Exception $e) {
-			echo 'Excepción capturada: ',  $e->getMessage(), "\n";
-		}
-	}
-}
-}
-class Owner {
-	public $id;
-	public $login;
-	public $url;
-
-
-	function __construct($json){
-		$this->id = $json['id'];
-		$this->login = $json['login'];
-		$this->url = $json['url'];
-	}
-}
-class Repositorio {
-	public $id;
-	public $name;
-	public $full_name;
-	public $owner_id;
-	public $private;
-	public $html_url;
-	public $description;
-	public $fork;
-	public $url;
-	public $forks_url;
-	public $created_at;
-	public $updated_at;
-	public $pushed_at;
-	public $git_url;
-	public $svn_url;
-	public $homepage;
-	public $size;
-	public $stargazers_count;
-	public $watchers_count;
-	public $language;
-	public $has_issues;
-	public $has_downloads;
-	public $has_wiki;
-	public $forks_count;
-	public $mirror_url;
-	public $open_issues_count;
-	public $forks;
-	public $open_issues;
-	public $watchers;
-	public $default_branch;
-	public $master_branch;
-	public $score;
-	public $json;
-
-	function __construct($json)
-	{
-		$this->id = $json['id'];
-		$this->name = $json['name'];
-		$this->full_name = $json['full_name'];
-		$this->owner_id = $json['owner']['id'];
-		$this->private = $json['private'];
-		$this->html_url = $json['html_url'];
-		$this->description = $json['description'];
-		$this->fork = $json['fork'];
-		$this->url = $json['url'];
-		$this->forks_url = $json['forks_url'];
-		$this->created_at = $json['created_at'];
-		$this->updated_at = $json['updated_at'];
-		$this->pushed_at = $json['pushed_at'];
-		$this->git_url = $json['git_url'];
-		$this->svn_url = $json['svn_url'];
-		$this->homepage = $json['homepage'];
-		$this->size = $json['size'];
-		$this->stargazers_count = $json['stargazers_count'];
-		$this->watchers_count = $json['watchers_count'];
-		$this->language = $json['language'];
-		$this->has_issues = $json['has_issues'];
-		$this->has_downloads = $json['has_downloads'];
-		$this->has_wiki = $json['has_wiki'];
-		$this->forks_count = $json['forks_count'];
-		$this->mirror_url = $json['mirror_url'];
-		$this->open_issues_count = $json['open_issues_count'];
-		$this->forks = $json['forks'];
-		$this->open_issues = $json['open_issues'];
-		$this->watchers = $json['watchers'];
-		$this->default_branch = $json['default_branch'];
-		$this->master_branch = $json['master_branch'];
-		$this->score = $json['score'];
-	}
-}
+require_once("BD.php");
 
 class Search {
 	public $username;
@@ -504,41 +269,52 @@ class Search {
 		$urlActual=$urlFindRepo . '&per_page=100';
 
 		$page=0;
-		/*
-		if($total_count==null){//Para solo hacer una vez la asignacion
-			trace("total_count: ".$this->total_count);
-			$this->total_count=intval($jsonres['total_count']);
-			$this->ultPagina=1;
-		}
-		*/
-		
 
-		do {
-			$this->ultPagina++;
-			//Obtengo pagina actual
+
+		$total_count = null;
+
+		$nResultados=0;
+
+		$DbBusqueda=new DbBusqueda();
+		$DBBusquedaRepositorio=new DBresultadobusquedarepositorio();
+		$lstResBusqueda = array();
+		for ($i=0; $i < 10; $i++) {
+
 			$res = $this->getURL($urlActual, $head, $body);
-			if ($this->RLRemaining == 0) {
-			$timerest = $this->RLReset - time();
-			trace("Durmiendo " . $timerest);
-			if($timerest>0)
-			sleep($timerest);
-			else sleep(5);
-			}
+			file_put_contents('file_' . sprintf('%03s', $i) . '.json', $body);
+			file_put_contents('file_' . sprintf('%03s', $i) . '.txt', $head);
 
 			$jsonres = json_decode($body, true);
-			$total_count=intval($jsonres['total_count']);
+			if($total_count==NULL){
+				$total_count=intval($jsonres["total_count"]);
+				$nResultados=0;
+				$busqueda=new Busqueda();
+				$busqueda->busqueda=$urlActual;
+				$busqueda->total_count=$total_count;
+				$DbBusqueda->save($busqueda);
 
+			}
 			trace('Url Actual	: '.$urlActual);
 			trace('Url Siguiente: '.$this->next);
-			//file_put_contents('file_' . sprintf('%03s', $page) . '.json', $body);
-			//file_put_contents('file_' . sprintf('%03s', $page) . '.txt', $head);
+
 			trace('Limite:' . $this->RLLimit);
 			trace('Remanente:' . $this->RLRemaining);
 			trace('Reset:' . $this->RLReset);
 			trace("Pagina :".$this->ultPagina);
 
+			//SI no hay resultados duermo
+			if ($this->RLRemaining == 0) {
+				$timerest = $this->RLReset - time();
+				trace("Durmiendo " . $timerest);
+				if($timerest>0)
+				sleep($timerest);
+				else sleep(5);
+				$i--;
+				continue;
+			}
 
-			if($jsonres ==null || count($jsonres)<2){
+			if($jsonres ==null || count($jsonres)<2||count($jsonres['items'])==0){
+				trace("Sin Resultados");
 				echo $body;
 				die();
 			}
@@ -546,24 +322,25 @@ class Search {
 			trace("N Items en json: ".count($jsonres['items']));
 			$tmp=array();
 
-			if(count($jsonres['items'])==0){
-				echo $body;
-				die();
 
-			}
 			foreach ($jsonres['items'] as  $item) {
+				$nResultados++;
 				$repo = new Repositorio($item);
 				$repo->json = json_encode($item);
 				$own=new Owner($item['owner']);
 				if($repo->pushed_at!=null)
 					$this->ultFecha=substr($repo->pushed_at,0,strpos($repo->pushed_at, 'T'));
-/*
+
+				$resbus=new resultadobusquedarepositorio();
+				$resbus->id_repositorio=$repo->id;
+				$resbus->id_busqueda=$busqueda->id;
+				array_push($lstResBusqueda, $resbus);
 				if(in_array ($own->id, $this->lstownersID)) continue;
 				else{
 					$this->DBOwn->save($own);
 					array_push($this->lstownersID, $own->id);
 				}
-*/
+
 				if(in_array ($repo->id, $this->lstrepositoriesId)) continue;
 				else{
 					//$this->DBRepo->save($repo);
@@ -573,28 +350,24 @@ class Search {
 				array_push($tmp, $repo);
 			}
 			$this->DBRepo->saveAll($tmp);
+			$DBBusquedaRepositorio->saveAll($lstResBusqueda);
 
 			if ($this->RLRemaining == 0) {
 				$timerest = $this->RLReset - time();
 				trace("Durmiendo " . $timerest);
 				if($timerest>0)
 				sleep($timerest);
-			else sleep(5);
+				else sleep(5);
 			}
 			$page++;
 			if($this->next!=null){
 				$urlActual=$this->next;
 			}
 			else break;
-			
-		} while ($page<10);
-		trace("Fin primario".time()-$inicio);
-		if(count($tmp)<$total_count){
-			trace("Ultimo resultado Fecha actualizacion:".$this->ultFecha);
-			$opts['pushed']='>'.$this->ultFecha;
-			$this->FindRepositorios($nombre, $opts);
+			if($nResultados>=$total_count)break;
+
 		}
-		trace("Fin primario".time()-$inicio);
+
 		trace("Resultado ".count($this->lstResultados));
 	}
 }
@@ -602,12 +375,175 @@ function exception_error_handler($errno, $errstr, $errfile, $errline ) {
 	throw new ErrorException($errstr, 0, $errno, $errfile, $errline);
 }
 //set_error_handler("exception_error_handler");
+/*
+class FuerzaBruta extends Thread
+{
+	public function run() {
+		echo "OLI";
+	}
+}
 
+Hay que wevear para instalarlo en windows
+$t=new FuerzaBruta();
+$t->start();
+*/
 $lol = new Search();
 //$lol->connect();
 $lol->reset();
 $array= array('pushed' => '>2007-01-01' );
-$lol->FindRepositorios('phonegap',$array);
+$lol->FindRepositorios('org.americanbible.biblesearch');
+$lol->FindRepositorios('com.mcm.plugins.androidinappbilling');
+$lol->FindRepositorios('com.simplec.plugins.videosettings');
+$lol->FindRepositorios('com.boyvanderlaak.cordova.plugin.orientationchanger');
+$lol->FindRepositorios('com.ohh2ahh.plugins.appavailability');
+$lol->FindRepositorios('com.appback.plugins.appback');
+$lol->FindRepositorios('com.flexblast.cordova.plugin.assetslib');
+$lol->FindRepositorios('mobi.autarky.audioencode');
+$lol->FindRepositorios('com.auth0.sdk');
+$lol->FindRepositorios('com.badrit.backgroundjs');
+$lol->FindRepositorios('com.wizital.plugins.backgroundlocationenabler');
+$lol->FindRepositorios('de.appplant.cordova.plugin.backgroundmode');
+$lol->FindRepositorios('de.appplant.cordova.plugin.badge');
+$lol->FindRepositorios('com.phonegap.plugins.barcodescanner');
+$lol->FindRepositorios('com.badrit.base64');
+$lol->FindRepositorios('org.apache.cordova.batterystatus');
+$lol->FindRepositorios('com.randdusing.bluetoothle');
+$lol->FindRepositorios('com.megster.cordova.bluetoothserial');
+$lol->FindRepositorios('com.tomvanenckevort.cordova.bluetoothserial');
+$lol->FindRepositorios('nl.xservices.plugins.calendar');
+$lol->FindRepositorios('genesis.plugins.calendar');
+$lol->FindRepositorios('com.badrit.calendar');
+$lol->FindRepositorios('nl.xservices.plugins.calendar.berserk');
+$lol->FindRepositorios('org.apache.cordova.camera');
+$lol->FindRepositorios('org.devgeeks.canvas2imageplugin');
+$lol->FindRepositorios('org.apache.cordova.mediacapture');
+$lol->FindRepositorios('org.transistorsoft.cordova.backgroundgeolocation');
+$lol->FindRepositorios('org.transistorsoft.cordova.backgroundnotification');
+$lol->FindRepositorios('com.phonegap.plugins.childbrowser');
+$lol->FindRepositorios('com.verso.cordova.clipboard');
+$lol->FindRepositorios('org.apache.cordova.console');
+$lol->FindRepositorios('hu.dpal.phonegap.plugins.contactnumberpicker');
+$lol->FindRepositorios('com.badrit.contactpicker');
+$lol->FindRepositorios('com.mobitel.nalaka.piccon');
+$lol->FindRepositorios('org.apache.cordova.contacts');
+$lol->FindRepositorios('com.performanceactive.plugins.camera');
+$lol->FindRepositorios('nl.xservices.plugins.launchmyapp');
+$lol->FindRepositorios('de.websector.datepicker');
+$lol->FindRepositorios('com.plugin.datepicker');
+$lol->FindRepositorios('com.dileep.plugins.datepicker');
+$lol->FindRepositorios('org.apache.cordova.device');
+$lol->FindRepositorios('org.apache.cordova.devicemotion');
+$lol->FindRepositorios('org.apache.cordova.deviceorientation');
+$lol->FindRepositorios('com.vliesaputra.deviceinformation');
+$lol->FindRepositorios('ch.ti8m.documenthandler');
+$lol->FindRepositorios('com.phonegap.plugins.emailcomposer');
+$lol->FindRepositorios('com.jcjee.plugins.emailcomposer');
+$lol->FindRepositorios('de.appplant.cordova.plugin.emailcomposer');
+$lol->FindRepositorios('com.badrit.emailcomposer');
+$lol->FindRepositorios('com.blueshirtdesign.cordova.plugin.pgexternalscreen');
+$lol->FindRepositorios('com.tricedesigns.ios.externalscreen');
+$lol->FindRepositorios('com.phonegap.plugins.facebookconnect');
+$lol->FindRepositorios('com.adobe.plugins.fastcanvas');
+$lol->FindRepositorios('org.apache.cordova.file');
+$lol->FindRepositorios('io.github.pwlin.cordova.plugins.fileopener');
+$lol->FindRepositorios('io.github.pwlin.cordova.plugins.fileopener2');
+$lol->FindRepositorios('org.apache.cordova.filetransfer');
+$lol->FindRepositorios('com.badrit.fileoperations');
+$lol->FindRepositorios('nl.xservices.plugins.flashlight');
+$lol->FindRepositorios('com.adobe.plugins.gaplugin');
+$lol->FindRepositorios('com.location9.dfencing');
+$lol->FindRepositorios('org.apache.cordova.geolocation');
+$lol->FindRepositorios('org.apache.cordova.globalization');
+$lol->FindRepositorios('dk.interface.cordova.plugin.googlenavigate');
+$lol->FindRepositorios('de.appplant.cordova.plugin.hiddenstatusbaroverlay');
+$lol->FindRepositorios('com.plugins.shortcut');
+$lol->FindRepositorios('com.rjfun.cordova.plugin.iad');
+$lol->FindRepositorios('com.kickstand.cordova.plugin.iad');
+$lol->FindRepositorios('com.synconset.imagepicker');
+$lol->FindRepositorios('org.apache.cordova.inappbrowser');
+$lol->FindRepositorios('com.alexvillaro.plugins.inapppurchase');
+$lol->FindRepositorios('cc.fovea.plugins.inapppurchase');
+$lol->FindRepositorios('com.retoglobal.plugins.inapppurchase');
+$lol->FindRepositorios('com.rjfun.cordova.plugin.appleiap');
+$lol->FindRepositorios('nl.xservices.plugins.insomnia');
+$lol->FindRepositorios('com.vladstirbu.cordova.instagram');
+$lol->FindRepositorios('com.cleartag.plugins.enablebackgroundlocation');
+$lol->FindRepositorios('nl.xservices.plugins.ioswebviewcolor');
+$lol->FindRepositorios('com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover');
+$lol->FindRepositorios('com.shazron.cordova.plugin.keychainutil');
+$lol->FindRepositorios('com.simplec.plugins.localnotification');
+$lol->FindRepositorios('de.appplant.cordova.plugin.localnotification');
+$lol->FindRepositorios('ihome.cordova.plugin.localnotification');
+$lol->FindRepositorios('com.localnotification.gotcakes');
+$lol->FindRepositorios('com.rjfun.cordova.plugin.lowlatencyaudio');
+$lol->FindRepositorios('com.badrit.macaddress');
+$lol->FindRepositorios('org.apache.cordova.media');
+$lol->FindRepositorios('dk.gi2.plugins.meteorcordova');
+$lol->FindRepositorios('nav.kolo.service');
+$lol->FindRepositorios('org.apache.cordova.networkinformation');
+$lol->FindRepositorios('com.albahra.plugin.networkinterface');
+$lol->FindRepositorios('com.chariotsolutions.nfc.plugin');
+$lol->FindRepositorios('org.apache.cordova.dialogs');
+$lol->FindRepositorios('com.passslot.cordova.plugin.passbook');
+$lol->FindRepositorios('com.teamnemitoff.phonedialer');
+$lol->FindRepositorios('hu.dpal.phonegap.plugins.pindialog');
+$lol->FindRepositorios('com.simplec.plugins.powermanagement');
+$lol->FindRepositorios('com.simonmacdonald.prefs');
+$lol->FindRepositorios('de.appplant.cordova.plugin.printer');
+$lol->FindRepositorios('com.badrit.printplugin');
+$lol->FindRepositorios('com.phonegap.plugins.pushplugin');
+$lol->FindRepositorios('com.pushwoosh.plugins.pushwoosh');
+$lol->FindRepositorios('com.arnia.plugins.smsbuilder');
+$lol->FindRepositorios('info.asankan.phonegap.smsplugin');
+$lol->FindRepositorios('nl.xservices.plugins.socialsharing');
+$lol->FindRepositorios('de.phonostar.softkeyboard');
+$lol->FindRepositorios('hu.dpal.phonegap.plugins.spinnerdialog');
+$lol->FindRepositorios('it.mobimentum.phonegapspinnerplugin');
+$lol->FindRepositorios('org.apache.cordova.splashscreen');
+$lol->FindRepositorios('ch.zhaw.sqlite');
+$lol->FindRepositorios('nl.xservices.plugins.sslcertificatechecker');
+$lol->FindRepositorios('com.phonegap.plugin.statusbar');
+$lol->FindRepositorios('it.y3web.cordova.documentinteraction');
+$lol->FindRepositorios('com.ankamagames.plugins.sysinfo');
+$lol->FindRepositorios('com.simonmacdonald.telephonenumber');
+$lol->FindRepositorios('com.testflightapp.cordovaplugin');
+$lol->FindRepositorios('nl.xservices.plugins.toast');
+$lol->FindRepositorios('org.common.plugins.updateapp');
+$lol->FindRepositorios('org.apache.cordova.vibration');
+$lol->FindRepositorios('com.sebible.cordova.videosnapshot');
+$lol->FindRepositorios('nl.xservices.plugins.videocaptureplus');
+$lol->FindRepositorios('com.dawsonloudon.videoplayer');
+$lol->FindRepositorios('ca.purplemad.wallpaper');
+$lol->FindRepositorios('net.tunts.webintent');
+$lol->FindRepositorios('com.borismus.webintent');
+$lol->FindRepositorios('com.ququplay.websocket.websocket');
+$lol->FindRepositorios('com.jamiestarke.webviewdebug');
+$lol->FindRepositorios('com.polyvi.plugins.weibo');
+$lol->FindRepositorios('com.kumbe.phonegap.zoom.zoomcontrol');
+$lol->FindRepositorios('<gap:platform name="ios”/>');
+$lol->FindRepositorios('<gap:platform name=“android”/>');
+$lol->FindRepositorios('cordova.js');
+$lol->FindRepositorios('api.phonegap.com');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/geolocation');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/camera');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/battery');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/device');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/network');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/app');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/notification');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/network');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/contacts');
+$lol->FindRepositorios('http://api.phonegap.com/1.0/media');
+$lol->FindRepositorios('gap:platform=“android"');
+$lol->FindRepositorios('name="phonegap-version”');
+$lol->FindRepositorios('com.phonegap.plugins.');
+$lol->FindRepositorios('com.phonegap.plugins.analytics.');
+$lol->FindRepositorios('com.phonegap.plugins.mapkit');
+$lol->FindRepositorios('com.phonegap.plugins.barcodescanner');
+$lol->FindRepositorios('com.phonegap.plugins.PushPlugin');
+$lol->FindRepositorios('com.phonegap.DroidGap');
+$lol->FindRepositorios('xmlns:gap');
+
 
 
 ?>
