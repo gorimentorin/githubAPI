@@ -38,6 +38,12 @@ class Search {
 
 	private $ultFecha=null;
 
+	protected $CURLOPT_NOBODY;
+
+	protected $HEADER;
+	
+
+
 
 	public function reset(){
 		 $this->lstownersID         =array();
@@ -57,6 +63,7 @@ class Search {
 		$this->lstownersID=array();
 		$this->lstrepositoriesId=array();
 		$this->lstResultados=array();
+		$this->CURLOPT_NOBODY=false;
 	}
 
 	function getURL($url, &$header, &$body)
@@ -77,6 +84,7 @@ class Search {
 		$header = substr($response, 0, $header_size);
 		$body = substr($response, $header_size);
 		$headVar = $this->parseHeaders($header);
+		$this->HEADER=$headVar;
 		try {
 			if (isset($headVar["X-RateLimit-Reset"])){
 				$this->RLReset = intval($headVar["X-RateLimit-Reset"]);
@@ -226,7 +234,7 @@ class Search {
 		$urlFindRepo = $this->urlbase . "search/repositories?q=" . $nombre.'+';
 		$buscar = $nombre;
 		$sp="%20";
-
+		if($opts==null)$opts =array('pushed' => '>2007-01-01' );
 
 		if ($opts != null) {
 			if(!isset($opts["encode"])){
@@ -281,8 +289,8 @@ class Search {
 		for ($i=0; $i < 10; $i++) {
 
 			$res = $this->getURL($urlActual, $head, $body);
-			file_put_contents('file_' . sprintf('%03s', $i) . '.json', $body);
-			file_put_contents('file_' . sprintf('%03s', $i) . '.txt', $head);
+			//file_put_contents('file_' . sprintf('%03s', $i) . '.json', $body);
+			//file_put_contents('file_' . sprintf('%03s', $i) . '.txt', $head);
 
 			$jsonres = json_decode($body, true);
 			if($total_count==NULL){
@@ -316,7 +324,7 @@ class Search {
 			if($jsonres ==null || count($jsonres)<2||count($jsonres['items'])==0){
 				trace("Sin Resultados");
 				echo $body;
-				die();
+				return;
 			}
 
 			trace("N Items en json: ".count($jsonres['items']));
@@ -343,13 +351,13 @@ class Search {
 
 				if(in_array ($repo->id, $this->lstrepositoriesId)) continue;
 				else{
-					//$this->DBRepo->save($repo);
+					$this->DBRepo->save($repo);
 					array_push($this->lstrepositoriesId, $repo->id);
 				}
 				array_push($this->lstResultados, $repo);
 				array_push($tmp, $repo);
 			}
-			$this->DBRepo->saveAll($tmp);
+			//$this->DBRepo->saveAll($tmp);
 			$DBBusquedaRepositorio->saveAll($lstResBusqueda);
 
 			if ($this->RLRemaining == 0) {
@@ -387,6 +395,7 @@ Hay que wevear para instalarlo en windows
 $t=new FuerzaBruta();
 $t->start();
 */
+/*
 $lol = new Search();
 //$lol->connect();
 $lol->reset();
@@ -544,6 +553,6 @@ $lol->FindRepositorios('com.phonegap.plugins.PushPlugin');
 $lol->FindRepositorios('com.phonegap.DroidGap');
 $lol->FindRepositorios('xmlns:gap');
 
-
+*/
 
 ?>
