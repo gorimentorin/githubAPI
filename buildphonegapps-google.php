@@ -12,7 +12,7 @@ class DBinfoPhoneGapps extends DBBase
             {
                 if ($stmt = $this->mysqli->prepare($sql))
                 {
-                    $stmt->bind_param("issdssss", 
+                    $stmt->bind_param("isssssss", 
                    	 $it->id,
                      $it->url,
                      $it->desc,
@@ -57,10 +57,11 @@ function filtrarInfo(){
 	$header;
 	$body;
 	$db=new DBinfoPhoneGapps();
-	for ($i=100000; $i <  999999 ; $i++) { 
+	for ($i=100; $i <  100000 ; $i++) {
+	//for ($i=100000; $i <  999999 ; $i++) { 
 
 		$this->CURLOPT_NOBODY=true;
-		$this->getURL($url.$i,$header,$body);
+		@$this->getURL($url.$i,$header,$body);
 		if( intval($this->HEADER['HTTP/1.1'])!=200){
 			trace("URL ".$url.$i.' no existe');
 		}
@@ -88,6 +89,7 @@ function filtrarInfo(){
 			////img[@class="qr-code"]/@src
 
 			$nombre 		= $xpath->query("//div[@class='details']/h1");
+			if($nombre->length==0)$xpath->query("//div[@class='details']");
 
 			$version 		= $xpath->query("//div[@class='details']/h1/small");
 			$desc 			= $xpath->query("//div[@class='details']/p[@class='desc']");

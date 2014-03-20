@@ -58,6 +58,7 @@ class DBBase
     protected $mysqli;
     public function __construct()
     {
+        $this->mysqli=null;
         /*
 		   $this->user="githubapi";
 		   $this->password='1q2w3e4r';
@@ -72,14 +73,18 @@ class DBBase
         $password = '1q2w3e4r';
         $server = '127.0.0.1';
         $DB = 'githubapi';
-        $this->mysqli = new mysqli(null, $user, $password, $DB);
-        /* check connection */
-        if (mysqli_connect_errno())
-        {
-            printf("Connect failed: %s\n", mysqli_connect_error());
-            return false;
+        if($this->mysqli==null){
+            $this->mysqli = new mysqli(null, $user, $password, $DB);
+
+            /* check connection */
+            if (mysqli_connect_errno())
+            {
+                printf("Connect failed: %s\n", mysqli_connect_error());
+                return false;
+            }
+            else return true;
         }
-        return true;
+        else return true;
     }
     /*
 	   i	la variable correspondiente es de tipo entero
@@ -113,6 +118,7 @@ class DBOwner extends DBBase
         return false;
     }
 }
+
 class DBRepositorio extends DBBase
 {
     /**
@@ -124,13 +130,15 @@ class DBRepositorio extends DBBase
         {
             if ($this->connect())
             {
-                $sql = 'INSERT INTO repositorio(id, name, full_name, owner_id, private, html_url, description, fork, url, forks_url, created_at, updated_at, pushed_at, git_url, svn_url, homepage, size, stargazers_count, watchers_count, language, has_issues, has_downloads, has_wiki, forks_count, mirror_url, open_issues_count, forks, open_issues, watchers, default_branch, master_branch, score,json) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)';
+                $sql = 'replace INTO repositorio(id, name, full_name, owner_id, private, html_url, description, fork, url, forks_url, created_at, updated_at, pushed_at, git_url, svn_url, homepage, size, stargazers_count, watchers_count, language, has_issues, has_downloads, has_wiki, forks_count, mirror_url, open_issues_count, forks, open_issues, watchers, default_branch, master_branch, score,json) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)';
                 if ($stmt = $this->mysqli->prepare($sql))
                 {
                     if ($stmt->bind_param("issiississssssssiiisiiiisiiiissds", $owner->id , $owner->name , $owner->full_name , $owner->owner_id , $owner->private , $owner->html_url , $owner->description , $owner->fork , $owner->url , $owner->forks_url , $owner->created_at , $owner->updated_at , $owner->pushed_at , $owner->git_url , $owner->svn_url , $owner->homepage , $owner->size , $owner->stargazers_count , $owner->watchers_count , $owner->language , $owner->has_issues , $owner->has_downloads , $owner->has_wiki , $owner->forks_count , $owner->mirror_url , $owner->open_issues_count , $owner->forks , $owner->open_issues , $owner->watchers , $owner->default_branch , $owner->master_branch , $owner->score, $owner->json))
                     {
                         $res = $stmt->execute();
-                        trace(" Repositorio " . $owner->id . " guardado en BD con resultado " . $res);
+                        if($stmt->error==null)
+                        trace(" Repositorio " . $owner->id . " guardado en BD con resultado ");
+                        else trace(" Error   repositorio" . $owner->id . ' ' . $stmt->error);
                         return $res;
                     }
                     else echo 'Error Bind Param';
@@ -281,7 +289,6 @@ class DBBusqueda extends DBBase
     function save(&$busqueda)
     {
         $sql = 'insert INTO busqueda(busqueda,total_count) VALUES (?,?)';
-        trace($sql);
         try
         {
             if ($this->connect())
