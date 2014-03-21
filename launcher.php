@@ -4,6 +4,7 @@ $lol = new Search();
 //$lol->connect();
 $lol->reset();
 $array= array('pushed' => '>2007-01-01' );
+
 $lol->FindRepositorios('org.americanbible.biblesearch');
 $lol->FindRepositorios('com.mcm.plugins.androidinappbilling');
 $lol->FindRepositorios('com.simplec.plugins.videosettings');
@@ -155,5 +156,6 @@ $lol->FindRepositorios('com.phonegap.plugins.mapkit');
 $lol->FindRepositorios('com.phonegap.plugins.barcodescanner');
 $lol->FindRepositorios('com.phonegap.plugins.PushPlugin');
 $lol->FindRepositorios('com.phonegap.DroidGap');
+
 $lol->FindRepositorios('xmlns:gap');
 ?>

@@ -342,18 +342,18 @@ class Search {
 				$resbus=new resultadobusquedarepositorio();
 				$resbus->id_repositorio=$repo->id;
 				$resbus->id_busqueda=$busqueda->id;
-				array_push($lstResBusqueda, $resbus);
-				if(in_array ($own->id, $this->lstownersID)) continue;
-				else{
+				//array_push($lstResBusqueda, $resbus);
+				//if(in_array ($own->id, $this->lstownersID)) continue;
+				//else{
 					$this->DBOwn->save($own);
 					array_push($this->lstownersID, $own->id);
-				}
+				//}
 
-				if(in_array ($repo->id, $this->lstrepositoriesId)) continue;
-				else{
+				//if(in_array ($repo->id, $this->lstrepositoriesId)) continue;
+				//else{
 					$this->DBRepo->save($repo);
 					array_push($this->lstrepositoriesId, $repo->id);
-				}
+				//}
 				array_push($this->lstResultados, $repo);
 				array_push($tmp, $repo);
 			}
