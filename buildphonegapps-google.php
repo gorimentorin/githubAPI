@@ -57,15 +57,13 @@ function filtrarInfo(){
 	$header;
 	$body;
 	$db=new DBinfoPhoneGapps();
-	for ($i=100; $i <  100000 ; $i++) {
+	for ($i=422512; $i <  1000000 ; $i++) {
 	//for ($i=100000; $i <  999999 ; $i++) { 
 
 		$this->CURLOPT_NOBODY=true;
 		@$this->getURL($url.$i,$header,$body);
-		if( intval($this->HEADER['HTTP/1.1'])!=200){
-			trace("URL ".$url.$i.' no existe');
-		}
-		else{
+		
+		if(isset($this->HEADER['HTTP/1.1']) && intval($this->HEADER['HTTP/1.1'])==200){
 			$this->CURLOPT_NOBODY=false;
 			$this->getURL($url.$i,$header,$body);
 
@@ -110,15 +108,11 @@ function filtrarInfo(){
 			$info->winphone_url	= $winphone_url->length >0?$urlRoot.$winphone_url->item(0)->getAttribute('href') :'';
 			$info->qr			= $qr->length 			>0?$qr 			->item(0)->getAttribute('src') :'';
 			$db->save($info);
-			
-
-
- 
 		}
-		
+		else{
+			trace("URL ".$url.$i.' no existe');
+		}
 	}
-
-
 }
 }
 $oli=new oli();
